@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login Kotlin</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="register_txt">Register</string>
+    <string name="login">Login</string>
+    <string name="use_google_account">Use Google Account</string>
+    <string name="use_facebook_account">Use Facebook Account</string>
+    <string name="or">Or</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_txt">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="default_web_clint_id" translatable="false">436295870610-gbe39en4r99c3okbrmqvmlo34hcfpejr.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">3259395554352653</string>
+    <string name="fb_login_protocol_scheme">fb3259395554352653</string>
+    <string name="facebook_client_token">333ff5fcc9fdeb49eb788ab35da16391</string>
+
+
+</resources>

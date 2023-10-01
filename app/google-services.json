@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436295870610",
+    "project_id": "login-kotlin-ddda3",
+    "storage_bucket": "login-kotlin-ddda3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436295870610:android:7b59e261918df76b1a5e4b",
+        "android_client_info": {
+          "package_name": "com.netclanexplorer.loginkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FAfgIJguSS0EYlrR12Pt4iBP2kNe7p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
